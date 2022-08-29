@@ -1,4 +1,0 @@
-Version 12.5.1 (Build 21G83)
-MacBookPro16,2
-Sparkle build 16589
-e0a0ab833b082d5adb1f3d583bc364506a02d789
